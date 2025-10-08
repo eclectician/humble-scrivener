@@ -31,7 +31,7 @@ markup:
 Menus:
   main:
     - identifier: blog
-      name: Read me on Substack
+      name: Find me on Substack
       title: Blog posts
       url: https://letthemeatcake.substack.com
       weight: 1
@@ -137,13 +137,13 @@ params:
     title: "Little Perfections: Eating in Singapore"
     subtitle: "Available 14 Nov 2025"
     content: |
-      > "Analytic... playful... sensuous, sharp and sympathetic.  More of everything, please!"
-      >
-      >  -- Harold McGee
+      > "Analytic... playful... sensuous, sharp and sympathetic.  More of everything, please!" -- Harold McGee, *On Food and Cooking*
 
-      > "One of the smartest, most talented people writing today about food."
-      >
-      >  -- Ed Behr
+      > "One of the smartest, most talented people writing today about food." -- Ed Behr, *The Art of Eating*
+
+      > "Each chapter teases your senses, makes you marvel at the thoughtful craftsmanship, and leaves you both satisfied and wanting more." -- Lan Lam, *America's Test Kitchen*
+
+      > "Tse Wei transforms the act of eating into literature. These essays shimmer with inventive metaphors, sharp humor, and deep reflection – but what stays with you is the humanity." -- Khir Johari, *The Food of Singapore Malays*
     image: /images/Little-Perfections-FRONT-COVER-web.jpg
     # bottomImage:
     #  enable: false
@@ -272,9 +272,9 @@ params:
   #Contact
   contact:
     enable: true
-    title: "Drop me a line"
-    # content: Coffee's on me
-    btnName: Coffee's on me
+    title: "Contact"
+    content: Coffee's on me
+    btnName: Drop me a line
     btnLink: mailto:letthemeatcake@substack.com
     # formspree:
     #   enable: true # `contact.email` value will be ignored
