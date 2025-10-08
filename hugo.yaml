@@ -139,11 +139,11 @@ params:
     content: "
              'Analytic... playful... sensuous, sharp and sympathetic. More of everything, please!' -- Harold McGee
 
-             'One of the smartest, most talented people writing today about food. -- Ed Behr'
+             'One of the smartest, most talented people writing today about food.' -- Ed Behr
              "
     image: /images/Little-Perfections-FRONT-COVER-web.jpg
-    bottomImage:
-      enable: false
+    # bottomImage:
+    #  enable: false
     # roundImage: true # Make hero image circular | default false
     # button:
     #   enable: true
@@ -167,12 +167,15 @@ params:
     title: "Bio"
     image: "/images/TW-Lim-headshot.jpeg"
     content: |-
-      TW Lim writes about food, travel, and technology, though rarely at the same time. 
-      His long-running Substack, [Let Them Eat Cake](https://letthemeatcake.substack.com), question of what we value in food and food culture, and how we assign value to it; and about the network of relationships embedded in that thing you’re eating.  
-      
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
+      TW Lim writes about food and technology, though rarely at the same time. 
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      He writes [*Let Them Eat Cake,*](https://letthemeatcake.substack.com) a newsletter about food and value – meaning “the regard that something is held to deserve; the importance, worth, or usefulness of something.”  
+      
+      He writes about the physical world for [*Scope of Work*](https://www.scopeofwork.net/author/tw/) - with series on culinary technology, palm oil, and most recently, reliability. 
+      
+      His writing has also appeared in *Cook's Illustrated,* *The Art of Eating,* and *The Boston Globe.* 
+
+      By day, he is a technical writer at [Antithesis](https://www.antithesis.com).
     # skills:
     #   enable: true
     #   title: "Here are a few technologies I've been working with recently:"
