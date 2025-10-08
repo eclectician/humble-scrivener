@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://humblescrivener.com"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "TW Lim, humble scrivener"
 theme: hugo-profile
 
 outputs:
@@ -31,15 +31,15 @@ markup:
 Menus:
   main:
     - identifier: blog
-      name: Blog
+      name: Read me on Substack
       title: Blog posts
-      url: /blogs
+      url: https://letthemeatcake.substack.com
       weight: 1
-    - identifier: gallery
-      name: Gallery
-      title: Blog posts
-      url: /gallery
-      weight: 2
+    # - identifier: gallery
+    #   name: Gallery
+    #   title: Blog posts
+    #   url: /gallery
+    #   weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -133,29 +133,30 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "TW."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
+    # intro: "Hi, my name is"
+    title: "Little Perfections: Eating in Singapore"
+    subtitle: "Available 14 Nov 2025"
+    content: "'Analytic... playful... sensuous, sharp and sympathetic. More of everything, please!' -- Harold McGee
+              'One of the smartest, most talented people writing today about food. -- Ed Behr'"
     image: /images/Little-Perfections-FRONT-COVER-web.jpg
     bottomImage:
-      enable: true
+      enable: false
     # roundImage: true # Make hero image circular | default false
-    button:
-      enable: true
-      name: "Resume"
-      url: "#"
-      download: true
-      newPage: false
-    socialLinks:
-      fontAwesomeIcons:
-        - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-x-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+    # button:
+    #   enable: true
+    #   name: "Resume"
+    #   url: "#"
+    #   download: true
+    #   newPage: false
+    # socialLinks:
+    #   fontAwesomeIcons:
+    #     - icon: fab fa-github
+    #       url: https://example.com
+    #     - icon: fab fa-x-twitter
+    #       url: https://example.com
+    #   customIcons:
+    #     - icon: /fav.png
+    #       url: "https://example.com"
 
   # About
   about:
