@@ -15,10 +15,10 @@ outputs:
 enableRobotsTXT: true
 
 #services:
-  #googleAnalytics:
-    #id: G-MEASUREMENT_ID
-  #disqus:
-    #shortname: your-disqus-shortname
+#googleAnalytics:
+#id: G-MEASUREMENT_ID
+#disqus:
+#shortname: your-disqus-shortname
 
 pagination:
   pagerSize: 3
@@ -119,8 +119,8 @@ params:
     disableSearch: true
     # searchPlaceholder: "Search"
     stickyNavBar:
-      enable : true
-      showOnScrollUp : true
+      enable: true
+      showOnScrollUp: true
     enableSeparator: false
     menus:
       disableAbout: false
@@ -136,11 +136,14 @@ params:
     # intro: "Hi, my name is"
     title: "Little Perfections: Eating in Singapore"
     subtitle: "Available 14 Nov 2025"
-    content: "
-             'Analytic... playful... sensuous, sharp and sympathetic. More of everything, please!' -- Harold McGee
+    content: |
+      > "Analytic... playful... sensuous, sharp and sympathetic.  More of everything, please!"
+      >
+      >  -- Harold McGee
 
-             'One of the smartest, most talented people writing today about food.' -- Ed Behr
-             "
+      > "One of the smartest, most talented people writing today about food."
+      >
+      >  -- Ed Behr
     image: /images/Little-Perfections-FRONT-COVER-web.jpg
     # bottomImage:
     #  enable: false
@@ -170,9 +173,9 @@ params:
       TW Lim writes about food and technology, though rarely at the same time. 
 
       He writes [*Let Them Eat Cake,*](https://letthemeatcake.substack.com) a newsletter about food and value – meaning “the regard that something is held to deserve; the importance, worth, or usefulness of something.”  
-      
+
       He writes about the physical world for [*Scope of Work*](https://www.scopeofwork.net/author/tw/) - with series on culinary technology, palm oil, and most recently, reliability. 
-      
+
       His writing has also appeared in *Cook's Illustrated,* *The Art of Eating,* and *The Boston Globe.* 
 
       By day, he is a technical writer at [Antithesis](https://www.antithesis.com).
