@@ -136,8 +136,11 @@ params:
     # intro: "Hi, my name is"
     title: "Little Perfections: Eating in Singapore"
     subtitle: "Available 14 Nov 2025"
-    content: "'Analytic... playful... sensuous, sharp and sympathetic. More of everything, please!' -- Harold McGee
-              'One of the smartest, most talented people writing today about food. -- Ed Behr'"
+    content: "
+             'Analytic... playful... sensuous, sharp and sympathetic. More of everything, please!' -- Harold McGee
+
+             'One of the smartest, most talented people writing today about food. -- Ed Behr'
+             "
     image: /images/Little-Perfections-FRONT-COVER-web.jpg
     bottomImage:
       enable: false
@@ -164,19 +167,22 @@ params:
     title: "Bio"
     image: "/images/TW-Lim-headshot.jpeg"
     content: |-
+      TW Lim writes about food, travel, and technology, though rarely at the same time. 
+      His long-running Substack, [Let Them Eat Cake](https://letthemeatcake.substack.com), question of what we value in food and food culture, and how we assign value to it; and about the network of relationships embedded in that thing you’re eating.  
+      
       I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
 
       I am currently working on a project that will be used to help people find the best way to get around the city.
-    skills:
-      enable: true
-      title: "Here are a few technologies I've been working with recently:"
-      items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+    # skills:
+    #   enable: true
+    #   title: "Here are a few technologies I've been working with recently:"
+    #   items:
+    #     - "HTML"
+    #     - "CSS"
+    #     - "JavaScript"
+    #     - "React"
+    #     - "Node"
+    #     - "Express"
 
   # # Experience
   # experience:
