@@ -59,8 +59,8 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
-  description: Text about my cool site
+  title: "TW Lim, humble scrivener"
+  description: TW Lim is a writer and a cook. A Singaporean native of Cambridge, MA 02138.
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
