@@ -133,25 +133,33 @@ params:
   # Hero
   hero:
     enable: true
-    # intro: "Hi, my name is"
+    # intro: "Available 14 Nov 2025, from [Landmark Books](https://www.landmarkbooks.com.sg)"
     title: "Little Perfections: Eating in Singapore"
-    subtitle: "Available 14 Nov 2025"
+    # subtitle: ""
     content: |
+      > Little Perfections romps through the hawker centres, home kitchens, and restaurants of Singapore, tasting everything and chatting with the cooks.
+      > 
+      > Eating guide, portrait, cookbook, confession, this collection is an insider’s tour of Singaporean food – and Singaporean society. In a country where food is identity, how do we decide what our food is worth?
+
       > "Analytic... playful... sensuous, sharp and sympathetic.  More of everything, please!" -- Harold McGee, *On Food and Cooking*
 
       > "One of the smartest, most talented people writing today about food." -- Ed Behr, *The Art of Eating*
 
       > "Each chapter teases your senses, makes you marvel at the thoughtful craftsmanship, and leaves you both satisfied and wanting more." -- Lan Lam, *America's Test Kitchen*
 
-      > "TW transforms the act of eating into literature. These essays shimmer with inventive metaphors, sharp humor, and deep reflection – but what stays with you is the humanity." -- Khir Johari, *The Food of Singapore Malays*
+      > "These essays shimmer with inventive metaphors, sharp humor, and deep reflection – but what stays with you is the humanity." -- Khir Johari, *The Food of Singapore Malays*
+
+      > "Every page sparkles with with, humour, and heart." -- Denise Fletcher, *How to Cook Everything Singaporean*
+
+      > Available 14 Nov 2025, from [Landmark Books](https://www.landmarkbooks.com.sg)
     image: /images/Little-Perfections-FRONT-COVER-web.jpg
     # bottomImage:
-    #  enable: false
-    # roundImage: true # Make hero image circular | default false
-    # button:
-    #   enable: true
-    #   name: "Resume"
-    #   url: "#"
+      # enable: true
+      # roundImage: true # Make hero image circular | default false
+    button:
+       enable: true
+       name: "Wholesale preorders"
+       url: "mailto:joe@landmarkbooks.com.sg"
     #   download: true
     #   newPage: false
     # socialLinks:
@@ -235,16 +243,15 @@ params:
   #         Extracurricular Activities
   #           - Lorem ipsum dolor sit amet consectetur adipisicing elit.
   #           - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-
-  # # Achievements
+  # Achievements
   # achievements:
-  #   enable: true
-  #   # title: "Custom Name"
-  #   items:
-  #     - title: Google kickstart runner
-  #       content: I solved all problems with optimal solution.
-  #       url: https://example.com
-  #       image: /images/achievement.jpg
+  #  enable: true
+  #  # title: "Custom Name"
+  #  items:
+  #    - title: Google kickstart runner
+  #      content: I solved all problems with optimal solution.
+  #      url: https://example.com
+  #      image: /images/achievement.jpg
 
   # # projects
   # projects:
