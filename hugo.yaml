@@ -133,7 +133,7 @@ params:
   # Hero
   hero:
     enable: true
-    # intro: "Available 14 Nov 2025, from [Landmark Books](https://www.landmarkbooks.com.sg)"
+    # intro: "Available in Asia 14 Nov 2025, from [Landmark Books](https://www.landmarkbooks.com.sg), US/UK release Feb 2026."
     title: "Little Perfections: Eating in Singapore"
     # subtitle: ""
     content: |
@@ -143,6 +143,8 @@ params:
 
       > "Analytic... playful... sensuous, sharp and sympathetic.  More of everything, please!" -- Harold McGee, *On Food and Cooking*
 
+      > "In a world of food writers claiming to be able to explain a culture through its food, TW Lim is the real deal. Singaporean cuisine is so often misunderstood or romanticised, but across these essays, Lim treats Singaporean cuisine with the complexity and nuance that it deserves, unpicking clichés, delving into the unglamourous mechanics of how a national cuisine is made. There are not many writers who can so deftly explain the economics and history of how a food is made, celebrate the people who cook it, make an absurd pâté-crôute, and appreciate food for what it sometimes is: just food." -- Jonathan Nunn, *Vittles*
+
       > "One of the smartest, most talented people writing today about food." -- Ed Behr, *The Art of Eating*
 
       > "Each chapter teases your senses, makes you marvel at the thoughtful craftsmanship, and leaves you both satisfied and wanting more." -- Lan Lam, *America's Test Kitchen*
@@ -151,7 +153,7 @@ params:
 
       > "Every page sparkles with with, humour, and heart." -- Denise Fletcher, *How to Cook Everything Singaporean*
 
-      > Available 14 Nov 2025, from [Landmark Books](https://www.landmarkbooks.com.sg)
+      > Available in Asia 14 Nov 2025, from [Landmark Books](https://www.landmarkbooks.com.sg), US/UK release Feb 2026.
     image: /images/Little-Perfections-FRONT-COVER-web.jpg
     # bottomImage:
       # enable: true
