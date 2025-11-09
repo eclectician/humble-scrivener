@@ -137,6 +137,12 @@ params:
     title: "Little Perfections: Eating in Singapore"
     # subtitle: ""
     content: |
+      > **Launch Events**
+
+      > Friday, 14 Nov, 6:00-7:30pm: In conversation with Christopher Tan, @ Aliwal Arts Centre
+
+      > Sunday, 16 Nov, 3:30-5:00pm: "It's not just the rent: the business of food in Singapore" with Goh Eck Kheng, @ Bookbar
+      
       > Little Perfections romps through the hawker centres, home kitchens, and restaurants of Singapore, tasting everything and chatting with the cooks.
       > 
       > Eating guide, portrait, cookbook, confession, this collection is an insider’s tour of Singaporean food – and Singaporean society. In a country where food is identity, how do we decide what our food is worth?
@@ -153,15 +159,15 @@ params:
 
       > "Every page sparkles with with, humour, and heart." -- Denise Fletcher, *How to Cook Everything Singaporean*
 
-      > Available in Asia 14 Nov 2025, from [Landmark Books](https://www.landmarkbooks.com.sg), US/UK release Feb 2026.
+      > Out now in Singapore and Asia, US/UK release Feb 2026.
     image: /images/Little-Perfections-FRONT-COVER-web.jpg
     # bottomImage:
       # enable: true
       # roundImage: true # Make hero image circular | default false
     button:
        enable: true
-       name: "Wholesale preorders"
-       url: "mailto:joe@landmarkbooks.com.sg"
+       name: "Buy it now"
+       url: "https://www.landmarkbooks.sg/store/p/little-perfections"
     #   download: true
     #   newPage: false
     # socialLinks:
